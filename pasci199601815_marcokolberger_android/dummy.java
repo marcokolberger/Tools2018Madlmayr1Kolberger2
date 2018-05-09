@@ -1,1 +1,2 @@
 dummy
+public void thisIsANewMethod() { }
